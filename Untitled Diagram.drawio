@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T15:37:37.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="N3KhB9YMlPWopLTrcnTn" version="14.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-14T15:43:36.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="QJdV8BFHhoKyh_umOhv7" version="14.6.0" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="611" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,17 +164,11 @@
         <mxCell id="GSLBzmSpwLws9h_8FePQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSLBzmSpwLws9h_8FePQ-8" target="GSLBzmSpwLws9h_8FePQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GSLBzmSpwLws9h_8FePQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSLBzmSpwLws9h_8FePQ-8" target="GSLBzmSpwLws9h_8FePQ-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GSLBzmSpwLws9h_8FePQ-8" value="게시글 보기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSLBzmSpwLws9h_8FePQ-9" value="수정" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GSLBzmSpwLws9h_8FePQ-11" value="삭제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSLBzmSpwLws9h_8FePQ-25" value="반려동물 관리" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1750" y="740" width="120" height="60" as="geometry" />
@@ -240,10 +234,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6yoQo2bE6TiGa_mnWJY3" name="Page-2">
-    <mxGraphModel dx="1730" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7L7yaQTqH9W5R-ABc_-u-0" />
         <mxCell id="7L7yaQTqH9W5R-ABc_-u-1" parent="7L7yaQTqH9W5R-ABc_-u-0" />
+        <mxCell id="BEiP08h1KJlj8OSXNZNr-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="7L7yaQTqH9W5R-ABc_-u-1">
+          <mxGeometry x="390" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BEiP08h1KJlj8OSXNZNr-5" value="입력" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="7L7yaQTqH9W5R-ABc_-u-1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
